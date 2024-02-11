@@ -1,2 +1,38 @@
 * [[https://quii.gitbook.io/learn-go-with-tests/][Learn Go with Tests]]
 Backup repo to learn go.
+* Progres
+** Go fundamentals [2/21]
++ [X] Install Go
++ [X] Hello, World
++ [ ] Integers
++ [ ] Iteration
++ [ ] Arrays and slices
++ [ ] Structs, methods & interfaces
++ [ ] Pointers & errors
++ [ ] Maps
++ [ ] Dependency Injection
++ [ ] Mocking
++ [ ] Concurrency
++ [ ] Select
++ [ ] Reflection
++ [ ] Sync
++ [ ] Context
++ [ ] Intro to property based tests
++ [ ] Maths
++ [ ] Reading files
++ [ ] Templating
++ [ ] Generics
++ [ ] Revisiting arrays and slices with generics
+** Testing fundamentals [/]
++ [ ] Introduction to acceptance tests
++ [ ] Scaling acceptance tests
++ [ ] Working withouts mocks
++ [ ] Refactoring Checklist
+** Build an application [/]
++ [ ] Intro
++ [ ] HTTP Server
++ [ ] JSON, routing and embedding
++ [ ] IO and sorting
++ [ ] Command line & package structure
++ [ ] Time
++ [ ] WebSockets
