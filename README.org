@@ -1,12 +1,12 @@
 * [[https://quii.gitbook.io/learn-go-with-tests/][Learn Go with Tests]]
 Backup repo to learn go.
 * Progres
-** Go fundamentals [3/21]
+** Go fundamentals [5/21]
 + [X] Install Go
 + [X] Hello, World
 + [X] Integers
-+ [ ] Iteration
-+ [ ] Arrays and slices
++ [X] Iteration
++ [X] Arrays and slices
 + [ ] Structs, methods & interfaces
 + [ ] Pointers & errors
 + [ ] Maps
