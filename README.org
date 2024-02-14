@@ -1,7 +1,7 @@
 * [[https://quii.gitbook.io/learn-go-with-tests/][Learn Go with Tests]]
 Backup repo to learn go.
 * Progres
-** Go fundamentals [7/21]
+** Go fundamentals [9/21]
 + [X] Install Go
 + [X] Hello, World
 + [X] Integers
@@ -9,8 +9,8 @@ Backup repo to learn go.
 + [X] Arrays and slices
 + [X] Structs, methods & interfaces
 + [X] Pointers & errors
-+ [ ] Maps
-+ [ ] Dependency Injection
++ [X] Maps
++ [X] Dependency Injection
 + [ ] Mocking
 + [ ] Concurrency
 + [ ] Select
