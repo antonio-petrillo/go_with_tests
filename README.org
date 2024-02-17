@@ -1,7 +1,7 @@
 * [[https://quii.gitbook.io/learn-go-with-tests/][Learn Go with Tests]]
 Backup repo to learn go.
 * Progres
-** Go fundamentals [19/21]
+** Go fundamentals [21/21]
 + [X] Install Go
 + [X] Hello, World
 + [X] Integers
@@ -21,15 +21,15 @@ Backup repo to learn go.
 + [X] Maths
 + [X] Reading files
 + [X] Templating
-+ [ ] Generics
-+ [ ] Revisiting arrays and slices with generics
++ [X] Generics
++ [X] Revisiting arrays and slices with generics
 ** Testing fundamentals [0/4]
 + [ ] Introduction to acceptance tests
 + [ ] Scaling acceptance tests
 + [ ] Working withouts mocks
 + [ ] Refactoring Checklist
-** Build an application [0/7]
-+ [ ] Intro
+** Build an application [1/7]
++ [X] Intro
 + [ ] HTTP Server
 + [ ] JSON, routing and embedding
 + [ ] IO and sorting
