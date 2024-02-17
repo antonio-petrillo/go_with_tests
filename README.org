@@ -1,7 +1,7 @@
 * [[https://quii.gitbook.io/learn-go-with-tests/][Learn Go with Tests]]
 Backup repo to learn go.
 * Progres
-** Go fundamentals [17/21]
+** Go fundamentals [19/21]
 + [X] Install Go
 + [X] Hello, World
 + [X] Integers
@@ -19,8 +19,8 @@ Backup repo to learn go.
 + [X] Context
 + [X] Intro to property based tests
 + [X] Maths
-+ [ ] Reading files
-+ [ ] Templating
++ [X] Reading files
++ [X] Templating
 + [ ] Generics
 + [ ] Revisiting arrays and slices with generics
 ** Testing fundamentals [0/4]
