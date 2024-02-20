@@ -28,10 +28,10 @@ Backup repo to learn go.
 + [ ] Scaling acceptance tests
 + [ ] Working withouts mocks
 + [ ] Refactoring Checklist
-** Build an application [2/7]
+** Build an application [3/7]
 + [X] Intro
 + [X] HTTP Server
-+ [ ] JSON, routing and embedding
++ [X] JSON, routing and embedding
 + [ ] IO and sorting
 + [ ] Command line & package structure
 + [ ] Time
